@@ -122,28 +122,6 @@ pgmpy>=1.0.0
 jupyter>=1.0.0
 ```
 
-## 📁 Project Structure
-```
-breast-cancer-detection/
-│
-├── DS-Project.ipynb              # Main Jupyter notebook
-├── README.md                     # Project documentation
-├── requirements.txt              # Python dependencies
-│
-├── data/                         # Dataset (loaded from sklearn)
-│
-├── visualizations/               # Generated plots and figures
-│   ├── covariance_matrix.png
-│   ├── statistical_analysis_complete.png
-│   ├── pca_classifier_complete_analysis.png
-│   ├── cross_validation_results.png
-│   ├── overfitting_analysis.png
-│   └── bbn_confusion_matrix.png
-│
-├── models/                       # Saved model files (optional)
-│
-└── results/                      # Performance metrics and reports
-```
 
 ## 🔬 Methodology
 

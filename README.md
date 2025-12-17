@@ -355,12 +355,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
@@ -382,11 +376,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
    - American Cancer Society. (2024). *Breast Cancer Facts & Figures*.
    - WHO. (2024). *Breast Cancer Statistics and Prevention*.
 
-## 📞 Contact & Support
-
-- **Issues**: Please report bugs via [GitHub Issues](https://github.com/yourusername/breast-cancer-detection/issues)
-- **Questions**: Open a discussion in [GitHub Discussions](https://github.com/yourusername/breast-cancer-detection/discussions)
-- **Email**: your.email@example.com
 
 ---
 

@@ -628,19 +628,6 @@ The project produces 30+ professional visualizations:
 
 All visualizations saved as high-resolution PNG files (300 DPI) in `/visualizations/` directory:
 
-```
-visualizations/
-├── statistical_analysis_complete.png       # 6-panel statistical overview
-├── pca_classifier_complete_analysis.png    # 6-panel PCA analysis
-├── svd_complete_analysis.png               # 6-panel SVD analysis
-├── feed_forward_nn_analysis.png            # 6-panel neural network
-├── cross_validation_results.png            # Model stability
-├── overfitting_analysis.png                # Train-test comparison
-├── linear_regression_analysis.png          # 6-panel regression
-├── bbn_confusion_matrix.png                # Bayesian network
-└── covariance_matrix.png                   # Feature relationships
-```
-
 ---
 
 ## 🏆 Results

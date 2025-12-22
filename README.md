@@ -410,12 +410,12 @@ Sequential([
 | Feed Forward NN | 96.49% | 0.966 | 0.965 | 0.965 | 0.991 | 2.10% |
 | LDA Classifier | 95.61% | 0.960 | 0.956 | 0.958 | 0.992 | 1.31% |
 | Naive Bayes | 93.86% | 0.940 | 0.939 | 0.939 | 0.988 | 0.21% |
-| MLP Classifier | 93.86% | 0.938 | 0.939 | 0.938 | N/A | 2.71% |
+| MLP Classifier | 93.86% | 0.938 | 0.939 | 0.938 | 0.9858 | 2.71% |
 | Decision Tree | 92.98% | 0.925 | 0.930 | 0.927 | 0.961 | 5.26%* |
 | KNN (Manhattan) | 92.98% | 0.920 | 0.920 | 0.920 | 0.966 | 1.75% |
-| LSTM | 92.11% | 0.923 | 0.921 | 0.922 | N/A | N/A |
+| LSTM | 92.11% | 0.923 | 0.921 | 0.922 | 0.9778 | 0.37% |
 | KNN (Euclidean) | 91.23% | 0.900 | 0.910 | 0.905 | 0.956 | 3.50% |
-| BBN | 90.35% | 0.904 | 0.904 | 0.904 | N/A | N/A |
+| BBN | 90.35% | 0.904 | 0.904 | 0.904 | 0.9565 | 0.86% |
 
 *Note: Decision Tree shows slight overfitting despite regularization
 
@@ -886,41 +886,6 @@ visualizations/
 
 Contributions are welcome! This project benefits from diverse perspectives in machine learning, medical informatics, and clinical practice.
 
-### How to Contribute
-
-#### 1. Fork the Repository
-```bash
-git clone https://github.com/yourusername/breast-cancer-detection.git
-cd breast-cancer-detection
-```
-
-#### 2. Create a Feature Branch
-```bash
-git checkout -b feature/AmazingFeature
-```
-
-#### 3. Make Your Changes
-- Add new models or algorithms
-- Improve visualizations
-- Enhance documentation
-- Optimize performance
-- Fix bugs
-
-#### 4. Commit Your Changes
-```bash
-git commit -m 'Add: Implemented XGBoost classifier with hyperparameter tuning'
-```
-
-#### 5. Push to Branch
-```bash
-git push origin feature/AmazingFeature
-```
-
-#### 6. Open a Pull Request
-- Describe your changes clearly
-- Include test results and performance metrics
-- Reference any related issues
-
 ### Contribution Guidelines
 
 **Code Quality**:
@@ -1063,7 +1028,7 @@ ISBN: 978-0387310732
 
 - **Author**: AbdulRahman Essam
 - **Student ID**: 320230120
-- **Institution**: [Your University Name]
+- **Institution**: egypt japan university of science and technology Faculty Of Computer Scince & Information Technology Artificial Intelligence & Data Scince Department
 - **Course**: Math for Data Science (AID311)
 - **Date**: December 22, 2025
 
@@ -1072,13 +1037,7 @@ ISBN: 978-0387310732
 **Questions?** Open an issue on GitHub  
 **Bug Reports**: Use GitHub Issues with detailed description  
 **Feature Requests**: Create an issue with the "enhancement" label  
-**Email**: [Your Email Address]
-
-### Project Links
-
-- **GitHub Repository**: [https://github.com/yourusername/breast-cancer-detection](https://github.com/yourusername/breast-cancer-detection)
-- **Project Documentation**: [Link to full report PDF]
-- **Jupyter Notebook**: [View on Google Colab](https://colab.research.google.com/)
+**Email**: abdulrahman.e.eissa@gmail.com
 
 ---
 
